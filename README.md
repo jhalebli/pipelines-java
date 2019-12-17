@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jim0168/nginx/_apis/build/status/jhalebli.pipelines-java?branchName=master)](https://dev.azure.com/jim0168/nginx/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
